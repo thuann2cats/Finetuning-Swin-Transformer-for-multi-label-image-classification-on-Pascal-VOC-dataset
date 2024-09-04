@@ -6,8 +6,8 @@ This quick convergence was only possible with learning rate of 2e-4. I experimen
 
 The model was fine-tuned using a cosine learning rate schedule, and performance is evaluated using metrics like ROC AUC, calculated via Hugging Face's `evaluate` library.
 
-![loss_plot.png](loss_plot.png)
+![loss_plot1.png](loss_plot1.png)
 
-![roc_auc_plot.png](roc_auc_plot.png)
+![roc_auc_plot1.png](roc_auc_plot1.png)
 
 ![predictions.png](predictions.png)
